@@ -1,4 +1,4 @@
 - I'm creator of [Retto IT](https://rettoit.com)
 - I'm mostly working on the REAS (Retto's Enterprise AI Solutions)
-- I work in finance, e-commerce, AppSec, and web development.
+- I work in B2B, finance, e-commerce, AppSec, and web development.
 - Follow on Medium: [https://medium.com/@eknvarli](https://medium.com/@eknvarli)
