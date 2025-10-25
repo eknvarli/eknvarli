@@ -4,4 +4,4 @@
 
   [![Tech Stack](https://skillicons.dev/icons?i=javascript,python,django,fastapi,nodejs,react,postgresql,aws,docker&theme=light)]()
 
-- Follow on Medium: [https://medium.com/@eknvarli](https://medium.com/@eknvarli)
+- Contact me from [https://rettoit.com](https://rettoit.com)
