@@ -1,7 +1,4 @@
-- I'm full stack software developer from Sivas, Türkiye
-- I'm working on Finance, e-Commerce, AppSec and Web Development
-- I specialize in the following tech stack
-
-  [![Tech Stack](https://skillicons.dev/icons?i=javascript,python,django,fastapi,nodejs,react,postgresql,aws,docker&theme=light)]()
-
-- Contact me from [https://rettoit.com](https://rettoit.com)
+- I'm creator of [Retto IT](https://rettoit.com)
+- I'm mostly working on the REAS (Retto's Enterprise AI Solutions)
+- I work in finance, e-commerce, AppSec, and web development.
+- Follow on Medium: [https://medium.com/@eknvarli](https://medium.com/@eknvarli)
